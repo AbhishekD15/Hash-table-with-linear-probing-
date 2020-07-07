@@ -18,4 +18,4 @@ The available modification moves are:
 
 **Compile**
 
->g++ -std=c11 -o main.out -O2 -Wall main1.cpp.
+>g++ -std=c11 -o main.out -O2 -Wall main3.cpp.
